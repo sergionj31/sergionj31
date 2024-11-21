@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Sergio Navarro Jarana
-- 🔭 Spanish Web Developer
+- 🔭 Spanish Full-Stack Developer
 - 🎨 Creative Development Lover
-- 🌱 I’m currently learning Web Application Development
+- 🌱 I am currently learning the specialization in AI and Big Data 
 - 🛜 Look at my portfolio! https://sergionj31.github.io/Portafolio/
 <br>
 <div>

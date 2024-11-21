@@ -3,6 +3,7 @@
 - 🎨 Creative Development Lover
 - 🌱 I’m currently learning Web Application Development
 - 🛜 Look at my portfolio! https://sergionj31.github.io/Portafolio/
+<br>
 <div>
    
    ![sergionj31's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergionj31&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)

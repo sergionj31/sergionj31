@@ -3,7 +3,7 @@
 - 🎨 Creative Development Lover
 - 🌱 I am currently learning the specialization in AI and Big Data
 - 😶‍🌫️ Hope you like my latest project: https://sergionj31.pythonanywhere.com/ 
-- 🛜 Look at my portfolio! https://sergionj31.github.io/Portafolio/
+- 🛜 Look at my portfolio! https://sergio-navarro.vercel.app/
 <br>
 <div>
    

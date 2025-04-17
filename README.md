@@ -5,7 +5,7 @@
 - 😶‍🌫️ Hope you like my latest projects:
    - [MeetUp](https://sergionj31.pythonanywhere.com/)
    - [NoNews](https://no-news-ntz4cr4c0-sergios-projects-947d4005.vercel.app/)
-- 🛜 Look at my portfolio! https://sergio-navarro.vercel.app/
+- 🛜 Look at my portfolio [here](https://sergio-navarro.vercel.app/)!
 <br>
 <div>
    
